@@ -235,18 +235,19 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {210948526,141422437},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
+    about_text = [[KINGs
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
-    
+    @danyyyx[DeVeLoPeR] 
+    @KinG0fDeaD[DeVeloPeR&creator]
     #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    [@DeaDnews] [https://github.com/king/KING.git]
     
-]],
+    
+    ]]
     help_text_realm = [[
 Realm Commands:
 
